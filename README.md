@@ -1,1 +1,2 @@
-# Technion Internship Project
+# Clustering algorithm for DNADS
+
